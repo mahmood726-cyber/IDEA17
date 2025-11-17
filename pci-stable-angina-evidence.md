@@ -24,7 +24,7 @@ The entire field of interventional cardiology was built on a deceptively intuiti
 
 ### The Original Evidence Base
 
-**RITA-2 (1999)** and similar early trials:
+**RITA-2 (1997)** and similar early trials:
 - Compared PCI to "medical therapy" for stable symptoms
 - **Finding**: PCI superior for symptom control
 - **Critical Flaw**: Medical therapy in 1999 was primitive (aspirin, beta-blocker, maybe a long-acting nitrate)
