@@ -41,24 +41,6 @@ The entire field of interventional cardiology was built on a deceptively intuiti
 
 ---
 
-## Procedural Risks and Complications
-
-### Peri-procedural Risks
-
-**Combined NNH**: **20-50** (2-5% risk of major complications)
-
-**Major Complications Include:**
-- Death
-- Stroke
-- Emergency coronary artery bypass surgery (CABG)
-- Major bleeding
-- Vascular complications
-- Contrast-induced nephropathy
-
-**Critical Point**: This harm is immediate, measurable, and unavoidable. Every patient accepts this risk up-front.
-
----
-
 ## The Evolution of Optimal Medical Therapy (OMT)
 
 ### The Paradigm Shift
@@ -357,7 +339,7 @@ Based on data from COURAGE, ISCHEMIA, and contemporary registries:
 
 ---
 
-## Historical Context: Evolution of Medical Therapy and Evidence
+## The Paradigm Shift: How Medical Therapy Rendered Old Evidence Obsolete
 
 ### Historical Control Bias in Early Trials
 
